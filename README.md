@@ -7,7 +7,6 @@ FTP Client Class
 ----------------
 
 This class consists of the following functions ...
-
 .connect       connect to the host
 .think         output a thought to the console (debugging)
 .do_nothing    check for a connection
@@ -15,7 +14,6 @@ This class consists of the following functions ...
 .LOGIN         login to the FTP with a username and password
 .DIR           get a list of files
 .SIZE          get the size of a file in bytes
-.TIME          get the time of modification in seconds since epoch
 .CDUP          change to parent directory
 .CWD           change the current working directory
 .MKD           create a new folder
@@ -25,4 +23,4 @@ This class consists of the following functions ...
 .PASV          a passive connection will have the data
                transfer port open on the server' s side
 .QUIT          close session and connections.
-"""
+@Federiz
