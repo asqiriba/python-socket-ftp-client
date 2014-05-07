@@ -1,8 +1,8 @@
 FTP
 ===
+FTP in Python using sockets.
 
-FTP in Python3 using sockets.
-
+client7.py
 FTP Client Class
 ----------------
 
@@ -24,3 +24,15 @@ This class consists of the following functions ...
                transfer port open on the server' s side
 .QUIT          close session and connections.
 @Federiz
+		*client7.py only works on Python2.2 or below.
+
+
+
+clienteFedTP.py
+FTP Client Class
+----------------
+
+This class consist of the following functions ...
+
+@Federiz
+		*clienteFedTP.py only works in Python3 or above.
