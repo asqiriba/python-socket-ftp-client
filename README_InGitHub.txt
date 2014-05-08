@@ -1,9 +1,4 @@
-FTP
-===
-
-
 FTP in Python using sockets.
-
 
 
 client7.py
