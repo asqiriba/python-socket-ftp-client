@@ -1,1 +1,1 @@
-Watch it work: https://asciinema.org/a/9348
+![](/http://i.imgur.com/HLUzKPy.png) Watch it work: [HERE](https://asciinema.org/a/9348 "FedTP.py").
